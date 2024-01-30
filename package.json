@@ -1,0 +1,11 @@
+{
+  "name": "perfromance_test-k6",
+  "version": "1.0.0",
+  "description": "perfromance testing using k6",
+  "main": "k6.js",
+  "scripts": {
+    "test": "k6 run k6.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
